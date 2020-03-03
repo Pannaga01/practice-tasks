@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url('/home/pannagasreya/pre-worshop/positive.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.container{
+    margin-top: 300px;
+    text-align: center;
+}
+#text{
+    font-size: 1.5rem;
+    font-family: sans-serif;
+    font-weight: 300px;
+    color: rgb(211, 85, 12);
+}
+h1{
+    font-size: 160px;
+    letter-spacing: inherit;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    letter-spacing: 15px;
+    font-weight: bolder;
+    color: rgb(30, 62, 80);
+}
+a{
+   padding 12px 24px;
+}
