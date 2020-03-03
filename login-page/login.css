@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+}
+h1{
+    color: rgb(87, 82, 82);
+    margin:50px;
+
+}
+.form{
+    margin:50px auto;
+    width:300px;
+}
+.info{
+    margin: 10px auto;
+    padding: 10px;
+    border:1px solid #dddddd;
+    box-sizing: border-box;
+}
