@@ -9,3 +9,8 @@ I did the login-page using:
 
 ## Error page:
 I used a html page which had the basic content. I used css for background, bootstrap for home button. 
+
+## Jekyll blog:
+I searched for the theme chosen in my github account and forked it. 
+I changed the branch from master to gh-pages.
+I did the changes required in the page according to my interest. 
